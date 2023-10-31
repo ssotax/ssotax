@@ -1,0 +1,13 @@
+---
+name: dope.security
+free_sso_providers:
+  - Google
+  - Microsoft
+sources:
+  - https://dope.security/pricing
+  - https://dope.security/behind-the-scenes
+scim_starting_on_plan: lowest
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2023-10-31
+vendor_url: https://dope.security
