@@ -5,6 +5,7 @@ name: Trello
 pricing_scheme: per user/month
 pricing_sources:
   - https://trello.com/pricing
-sso_pricing: 21
-updated_at: 2018-10-17
+  - https://www.atlassian.com/software/access/pricing
+sso_pricing: 4
+updated_at: 2023-11-24
 vendor_url: https://trello.com
