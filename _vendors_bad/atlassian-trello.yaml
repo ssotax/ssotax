@@ -1,11 +1,17 @@
 ---
 base_pricing: 10
 currency: USD
+free_sso_providers:
+  - Apple
+  - Google
+  - Microsoft
+  - Slack
 name: Trello
+notes: SSO is available with Atlassian Access as separate subscription that starts at $4/month/user.
 pricing_scheme: per user/month
 pricing_sources:
   - https://trello.com/pricing
   - https://www.atlassian.com/software/access/pricing
-sso_pricing: 4
+sso_pricing: 14
 updated_at: 2023-11-24
 vendor_url: https://trello.com
