@@ -1,0 +1,12 @@
+---
+base_pricing: 19
+currency: USD
+name: Nocodb
+notes: Community PR to enable OIDC in community edition rejected https://github.com/nocodb/nocodb/pull/3979#issuecomment-1378038492
+pricing_scheme: per 10 users/month
+pricing_sources:
+  - https://nocodb.com/pricing
+  - Quote
+sso_pricing: unknown
+updated_at: 2023-11-24
+vendor_url: https://nocodb.com
