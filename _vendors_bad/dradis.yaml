@@ -1,0 +1,11 @@
+---
+base_pricing: 79
+currency: USD
+name: Dradis
+notes: You must contact them for enterprise pricing which includes SSO. The highest tier without SSO is $149 per user per month (billed annually).
+pricing_scheme: per user/month
+pricing_sources:
+  - https://dradis.com/pricing.html
+sso_pricing: ???
+updated_at: 2023-11-27
+vendor_url: https://dradis.com
