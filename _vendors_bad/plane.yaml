@@ -1,9 +1,6 @@
 ---
 base_pricing: 0
 currency: USD
-free_sso_providers:
-  - Github
-  - Google
 name: Plane
 notes: OSS maintainers refuse to merge community-developed OIDC feature, because they're thinking to charge for SSO.
 pricing_scheme: per user/month
