@@ -1,10 +1,10 @@
 ---
-base_pricing: 3
+base_pricing: 4
 currency: USD
 name: BitWarden
 pricing_scheme: per user/month
 pricing_sources:
   - https://bitwarden.com/pricing/business
-sso_pricing: 5
-updated_at: 2021-09-06
+sso_pricing: 6
+updated_at: 2024-06-06
 vendor_url: https://bitwarden.com
