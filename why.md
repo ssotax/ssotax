@@ -8,7 +8,7 @@ order: 3
 
 [**SSOtax.org**](https://ssotax.org) is an open source project to raise awareness how important SSO is as a core security requirement and that it should be available for everyone! It is maintained by the IT and InfoSec community.
 
-Single sign-on (SSO) is a mechanism for outsourcing the authentication (via OpenID Connect, SAML) to a third party identity provider, such as Google, Azure AD, Okta, etc.
+Single sign-on (SSO) is a mechanism for outsourcing the authentication (via OpenID Connect, SAML) to a third party identity provider, such as Google, Microsoft, Okta, etc.
 
 Companies rely on SSO to centrally lock down any employee access at the time of their offboarding (and to support robust Multi-Factor-Authentication). Imagine offboarding a single employee from 30 different SaaS applications: Assuming it takes an IT admin 4 minutes to login to a tool and suspend the account it would take them two hours to suspend every access. Two hours in which an employee would have unauthorized access!
 
