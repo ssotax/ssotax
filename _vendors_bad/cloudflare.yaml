@@ -2,13 +2,13 @@
 base_pricing: 20
 currency: USD
 name: Cloudflare
-notes: 'Enterprise - Custom: > $200 per month'
+notes: 'Enterprise: min 12k per year'
 free_sso_providers:
   - Apple
 pricing_scheme: per month
 pricing_sources:
   - https://www.cloudflare.com/plans
   - Quote
-sso_pricing: unknown
-updated_at: 2023-10-24
+sso_pricing: 1000
+updated_at: 2024-09-24
 vendor_url: https://www.cloudflare.com
