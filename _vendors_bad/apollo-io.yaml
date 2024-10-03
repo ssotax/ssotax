@@ -2,12 +2,11 @@
 base_pricing: 49
 currency: USD
 free_sso_providers:
-  - Google
-  - Microsoft
 name: Apollo
+notes: SSO only available at the "Organization" licensing tier
 pricing_scheme: per user/month
 pricing_sources:
   - https://www.apollo.io/pricing
-sso_pricing: 79
-updated_at: 2023-10-26
+sso_pricing: 119
+updated_at: 2024-10-03
 vendor_url: https://apollo.io
