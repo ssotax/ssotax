@@ -1,0 +1,11 @@
+---
+name: Amazon Web Services
+scim_pricing: 0
+scim_starting_on_plan: lowest
+sources:
+  - https://aws.amazon.com/iam/identity-center/faqs/
+  - https://docs.aws.amazon.com/singlesignon/latest/userguide/tutorials.html
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2024-10-23
+vendor_url: https://aws.amazon.com/
