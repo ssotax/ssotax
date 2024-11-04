@@ -1,0 +1,14 @@
+---
+base_pricing: 17
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+  - Microsoft
+name: Screenly
+pricing_scheme: per screen/month
+pricing_sources: 
+  - https://www.screenly.io/pricing/
+sso_pricing: 25
+updated_at: 2024-11-03
+vendor_url: https://www.screenly.io/
