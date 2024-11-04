@@ -1,10 +1,11 @@
 ---
-base_pricing: 25
+base_pricing: 19
 currency: USD
 name: SmartSheet
 pricing_scheme: per user/month
 pricing_sources:
   - https://www.smartsheet.com/pricing
-sso_pricing: unknown
-updated_at: 2018-10-22
+sso_pricing: 26
+updated_at: 2024-11-04
 vendor_url: https://smartsheet.com
+notes: $19/user/mo (Business plan), SSO requires Enterprise plan with minimum of 10 users, paid yearly.
