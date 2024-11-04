@@ -1,0 +1,16 @@
+---
+base_pricing: 99
+currency: USD
+free_sso_providers:
+  - Facebook
+  - GitHub
+  - Google
+name: Canny
+notes: the SSO they list as free is only for authenticating standard users. for admin users SSO is a part of their Business plan which has "call us" pricing
+pricing_scheme: per month
+pricing_sources:
+  - https://canny.io/pricing
+  - https://help.canny.io/en/collections/2445416-authentication-tools
+sso_pricing: unknown
+updated_at: 2024-11-01
+vendor_url: https://canny.io
