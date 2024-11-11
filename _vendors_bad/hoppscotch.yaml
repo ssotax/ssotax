@@ -1,11 +1,12 @@
 ---
-base_pricing: 0
+base_pricing: 0.1
 currency: USD
 free_sso_providers:
   - Google
   - Microsoft
   - GitHub
 name: Hoppscotch
+notes: Base pricing is actually zero.
 pricing_scheme: per user/month
 pricing_sources:
   - https://docs.hoppscotch.io/documentation/self-host/getting-started
