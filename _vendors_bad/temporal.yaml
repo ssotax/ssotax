@@ -1,0 +1,16 @@
+---
+base_pricing: 100
+currency: USD
+free_sso_providers:
+  - Google
+  - Microsoft
+name: Temporal.io
+notes: You can add SSO to a Business plan for $200+* per month. * 0-25 is 200$. 26 to 50 is 300$ and 51+ is $500
+pricing_scheme: per actions and storage
+pricing_sources:
+  - https://temporal.io/pricing
+  - https://temporal.io/blog/temporal-cloud-pricing-update
+  - Quote
+sso_pricing: 700
+updated_at: 2024-11-07
+vendor_url: https://temporal.io
