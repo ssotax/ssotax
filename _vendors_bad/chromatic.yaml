@@ -5,6 +5,7 @@ currency: USD
 pricing_scheme: per month
 pricing_sources:
   - https://www.chromatic.com/pricing
-sso_pricing: unknown
+  - Quote
+sso_pricing: 2000
 updated_at: 2024-11-06
 vendor_url: https://www.chromatic.com
