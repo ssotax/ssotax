@@ -1,0 +1,14 @@
+---
+base_pricing: 0
+currency: USD
+free_sso_providers:
+  - Google
+  - Microsoft
+  - GitHub
+name: Hoppscotch
+pricing_scheme: per user/month
+pricing_sources:
+  - https://docs.hoppscotch.io/documentation/self-host/getting-started
+sso_pricing: 19
+updated_at: 2024-11-04
+vendor_url: https://hoppscotch.io
