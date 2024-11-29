@@ -9,7 +9,6 @@ notes: Teams plan is required to benefit from SSO.
 pricing_scheme: per user/month
 pricing_sources:
   - https://www.doppler.com/pricing
-scim_pricing: ???
 sso_pricing: 21
 updated_at: 2024-11-28
 vendor_url: https://www.doppler.com
