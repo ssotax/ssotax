@@ -1,0 +1,13 @@
+---
+name: New Relic
+free_sso_providers:
+  - Google
+  - Azure AD
+scim_pricing: 418.80
+scim_starting_on_plan: Pro plan
+sources:
+  - https://newrelic.com/pricing
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2024-12-03
+vendor_url: https://newrelic.com
