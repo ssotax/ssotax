@@ -1,10 +1,11 @@
 ---
-base_pricing: 49
+base_pricing: 12
 currency: USD
 name: Balsamiq Wireframes
+notes: SSO is available on Enterprise plan, billed annually only.
 pricing_scheme: per month
 pricing_sources:
-  - https://balsamiq.com/buy/#cloud
-sso_pricing: 199
-updated_at: 2023-10-15
+  - https://balsamiq.com/buy
+sso_pricing: 18
+updated_at: 2024-12-05
 vendor_url: https://balsamiq.com/
