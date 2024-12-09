@@ -6,7 +6,7 @@ notes: Only available on the Enterprise plan
 pricing_scheme: per month
 pricing_sources:
   - https://n8n.io/pricing/
-  - Quote
-sso_pricing: unknown
+  - https://plans.n8n.io
+sso_pricing: $400
 updated_at: 2024-02-10
 vendor_url: https://n8n.io/
