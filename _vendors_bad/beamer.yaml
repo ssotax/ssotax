@@ -1,0 +1,12 @@
+---
+base_pricing: 59
+currency: USD
+free_sso_providers:
+  - Google
+name: Beamer
+pricing_scheme: per month
+pricing_sources:
+  - https://www.getbeamer.com/pricing
+sso_pricing: 299
+updated_at: 2024-12-16
+vendor_url: https://www.getbeamer.com/
