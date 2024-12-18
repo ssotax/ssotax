@@ -1,0 +1,14 @@
+---
+base_pricing: 39
+currency: USD
+free_sso_providers:
+name: Marker.io
+notes: Call us to negotiate Enterprise plan
+pricing_scheme: per month
+pricing_sources:
+  - https://marker.io/pricing
+  - Quote
+scim_pricing: 500
+sso_pricing: 500
+updated_at: 2024-12-08
+vendor_url: https://marker.io/
