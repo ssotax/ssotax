@@ -1,0 +1,10 @@
+---
+base_pricing: 100
+currency: USD
+name: dbt Cloud
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.getdbt.com/pricing
+sso_pricing: unknown
+updated_at: 2024-12-18
+vendor_url: https://www.getdbt.com
