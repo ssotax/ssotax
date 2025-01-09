@@ -1,0 +1,10 @@
+---
+base_pricing: 150
+currency: USD
+name: Mintlify
+pricing_scheme: per month
+pricing_sources:
+  - https://mintlify.com/pricing
+sso_pricing: unknown
+updated_at: 2025-01-06
+vendor_url: https://mintlify.com/
