@@ -1,5 +1,5 @@
 ---
-base_pricing: 45
+base_pricing: 49
 currency: USD
 free_sso_providers:
   - Bitbucket
@@ -12,5 +12,5 @@ pricing_sources:
   - https://cloudcannon.com/pricing/
   - Quote
 sso_pricing: unknown
-updated_at: 2024-03-25
+updated_at: 2025-01-15
 vendor_url: https://cloudcannon.com
