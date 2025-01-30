@@ -1,0 +1,14 @@
+---
+base_pricing: 15000
+currency: USD
+free_sso_providers:
+  - Google
+name: Flourish
+notes: SSO starts at "Enterprise" - "call us" pricing for any team features at all
+pricing_scheme: per year
+pricing_sources:
+  - https://flourish.studio/pricing/
+scim_pricing: 20000
+sso_pricing: 20000
+updated_at: 2025-01-22
+vendor_url: https://flourish.studio
