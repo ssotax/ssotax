@@ -1,0 +1,15 @@
+---
+base_pricing: 42
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+name: StackHawk
+notes: SSO starts with the Enterprise plan.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.stackhawk.com/pricing/
+scim_pricing: 59
+sso_pricing: 59
+updated_at: 2025-01-24
+vendor_url: https://www.stackhawk.com/
