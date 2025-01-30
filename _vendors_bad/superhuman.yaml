@@ -1,0 +1,10 @@
+---
+base_pricing: 25
+currency: USD
+name: Superhuman
+pricing_scheme: per user/month
+pricing_sources:
+  - https://superhuman.com/pricing
+sso_pricing: unknown
+updated_at: 2025-01-10
+vendor_url: https://superhuman.com/
