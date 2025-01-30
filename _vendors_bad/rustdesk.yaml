@@ -1,0 +1,12 @@
+---
+base_pricing: 0.1
+currency: USD
+name: RustDesk
+notes: 10 users, additional users for $1 per u/m. Base pricing is actually zero.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://rustdesk.com/pricing/?lang=en
+scim_pricing: 19.90
+sso_pricing: 19.90
+updated_at: 2025-01-17
+vendor_url: https://rustdesk.com/
