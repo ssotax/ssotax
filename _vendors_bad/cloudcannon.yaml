@@ -6,11 +6,11 @@ free_sso_providers:
   - Github
   - Gitlab
 name: Cloudcannon
-notes: Only enterprise plan has SSO
+notes: Only enterprise plan has SSO included, but can be added to "Growth" tier for an additional $17/user/month
 pricing_scheme: per user/month
 pricing_sources:
   - https://cloudcannon.com/pricing/
   - Quote
-sso_pricing: unknown
-updated_at: 2025-01-15
+sso_pricing: 17
+updated_at: 2025-02-04
 vendor_url: https://cloudcannon.com
