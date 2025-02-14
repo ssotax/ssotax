@@ -1,0 +1,15 @@
+---
+base_pricing: 1990
+currency: USD
+free_sso_providers:
+  - Google
+  - Microsoft
+name: IDEA StatiCa
+pricing_scheme: per year
+pricing_sources:
+  - https://www.ideastatica.com/enterprise-license
+  - https://www.ideastatica.com/pricing
+scim_pricing: 
+sso_pricing: 5250
+updated_at: 2025-02-07
+vendor_url: https://www.ideastatica.com/
