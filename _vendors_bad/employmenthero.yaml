@@ -1,0 +1,12 @@
+---
+base_pricing: 12
+currency: GBP
+name: Employment Hero
+notes: Single-Sign-On (SSO) only available with Unlimited plan.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://employmenthero.com/uk/pricing/
+  - Public
+sso_pricing: 29
+updated_at: 2025-02-06
+vendor_url: https://employmenthero.com/
