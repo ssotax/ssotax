@@ -1,0 +1,12 @@
+---
+base_pricing: 19
+currency: USD
+name: Cognito Forms
+notes: Enterprise plan required for SSO.
+pricing_scheme: per month
+pricing_sources:
+  - https://www.cognitoforms.com/pricing
+  - Public
+sso_pricing: 129
+updated_at: 2025-02-06
+vendor_url: https://www.cognitoforms.com/
