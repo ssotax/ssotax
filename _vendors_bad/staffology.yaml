@@ -1,0 +1,11 @@
+---
+base_pricing: 6.50
+currency: GBP
+name: Staffology HR
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.staffology.co.uk/hr-software/
+  - public
+sso_pricing: 54
+updated_at: 2025-02-14
+vendor_url: https://www.staffology.co.uk/hr-software/
