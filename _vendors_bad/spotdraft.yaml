@@ -1,0 +1,11 @@
+---
+base_pricing: 1
+currency: USD
+name: SpotDraft
+notes: Flat Fee - Annual Charge
+pricing_scheme:  per year
+pricing_sources:
+  - Quote
+sso_pricing: 1200
+updated_at: 2025-02-03
+vendor_url: https://www.spotdraft.com
