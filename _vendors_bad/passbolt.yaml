@@ -1,10 +1,11 @@
 ---
-base_pricing: 0.00
+base_pricing: 0.01
 currency: USD
-name: Passbolt Self hosted
-pricing_scheme: per user/month
+name: Passbolt (self-hosted)
+notes: "For 10 users. Price changes depending on users."
+pricing_scheme: per month
 pricing_sources:
   - https://www.passbolt.com/pricing/pro
-sso_pricing: 49.00 per month
+sso_pricing: 49.00
 updated_at: 2025-02-11
 vendor_url: https://www.passbolt.com
