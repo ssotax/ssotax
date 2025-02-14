@@ -1,0 +1,16 @@
+---
+base_pricing: 19
+currency: USD
+free_sso_providers:
+  - GitHub
+  - GitLab
+  - Google
+  - Microsoft
+name: OpenObserve
+pricing_scheme: per month
+pricing_sources:
+  - https://openobserve.ai/pricing
+  - https://openobserve.ai/blog/sso-tax
+sso_pricing: unknown
+updated_at: 2025-02-11
+vendor_url: https://openobserve.ai
