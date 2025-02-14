@@ -1,0 +1,16 @@
+---
+base_pricing: 15
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+name: Sanity.io
+notes: You can add SSO to a plan for $1499/month. 1514 = minimum (one user plus "SSO add-on")
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.sanity.io/pricing
+  - https://www.sanity.io/pricing#add-ons
+scim_pricing: 1514
+sso_pricing: 1514
+updated_at: 2025-02-04
+vendor_url: https://www.sanity.io
