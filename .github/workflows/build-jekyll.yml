@@ -24,7 +24,9 @@ jobs:
 
       # Use GitHub Deploy Action to build and deploy to Github
       # For latest version: `jeffreytse/jekyll-deploy-action@master`
-      - uses: jeffreytse/jekyll-deploy-action@v0.5.0
+      - uses: jeffreytse/jekyll-deploy-action@v0.6.0
         with:
           provider: 'github'         # Default is github
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
+          bundler_ver: '~>2.2.27'         # Default is latest bundler version
+          ruby_ver: '2.7.8'
