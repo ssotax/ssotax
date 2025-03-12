@@ -17,6 +17,12 @@ right Github page.
 
 Vendor data lives in `_vendors_bad/` and `_vendors_good/`.
 
+Run it with:
+
+```
+bundle exec jekyll serve
+```
+
 ## 💪 Contributors
 
 Thank you for continuously making SSOTax better ❤️
