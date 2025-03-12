@@ -1,0 +1,12 @@
+---
+currency: EUR
+name: botBrains
+scim_pricing: 549
+scim_starting_on_plan: lowest
+sources:
+  - https://botbrains.io/en/pricing
+  - https://www.botbrains.io/en/blog/sso-isnt-a-2x-price-increase
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2025-02-26
+vendor_url: https://botbrains.io
