@@ -6,7 +6,8 @@ free_sso_providers:
   - LinkedIn
   - Microsoft
 name: Organimi
-pricing_scheme: per month, increases in blocks of employees
+notes: Price increases in blocks of employees
+pricing_scheme: per month
 pricing_sources:
   - https://www.organimi.com/pricing-packages/
 scim_pricing: 22
