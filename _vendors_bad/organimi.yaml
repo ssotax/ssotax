@@ -1,0 +1,15 @@
+---
+base_pricing: 11
+currency: USD
+free_sso_providers:
+  - Google
+  - LinkedIn
+  - Microsoft
+name: Organimi
+pricing_scheme: per month, increases in blocks of employees
+pricing_sources:
+  - https://www.organimi.com/pricing-packages/
+scim_pricing: 22
+sso_pricing: 22
+updated_at: 2025-03-28
+vendor_url: https://www.organimi.com/
