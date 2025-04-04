@@ -1,10 +1,10 @@
 ---
-base_pricing: 20
+base_pricing: 18
 currency: USD
 name: Dropbox
 pricing_scheme: per user/month
 pricing_sources:
-  - https://www.dropbox.com/business/plans-comparison
-sso_pricing: 26
-updated_at: 2023-10-14
+  - https://www.dropbox.com/business/plans-comparison?billing=monthly
+sso_pricing: 30
+updated_at: 2025-04-04
 vendor_url: https://www.dropbox.com
