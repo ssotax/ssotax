@@ -7,12 +7,12 @@ free_sso_providers:
   - Google
   - Microsoft
 name: Canva
-notes: SSO and SCIM are only available on the Enterprise plan.
+notes: SSO and SCIM are only available on the Enterprise plan. 25 user minimum required.
 pricing_scheme: per user/year
 pricing_sources:
   - https://www.canva.com/pricing/
   - Quote
 scim_pricing: 300
 sso_pricing: 300
-updated_at: 2024-05-14
+updated_at: 2025-02-18
 vendor_url: https://www.canva.com/
