@@ -1,0 +1,14 @@
+---
+base_pricing: 5
+currency: USD
+free_sso_providers:
+  - Google
+name: Docmost
+notes: SSO plan comes with enterprise, self-hosted. Pricing not public 
+pricing_scheme: per user/month
+pricing_sources:
+  - https://docmost.com/pricing
+scim_pricing: unknown
+sso_pricing: unknown
+updated_at: 2025-04-08
+vendor_url: https://docmost.com
