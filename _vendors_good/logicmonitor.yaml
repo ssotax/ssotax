@@ -1,1 +1,10 @@
----name: LogicMonitorsources:  - https://www.logicmonitor.com/pricing  - https://www.logicmonitor.com/support/security/single-sign-onsso_on_free_plans: falsesso_on_all_paid_plans: trueupdated_at: 2024-08-21vendor_url: https://www.logicmonitor.com/
+---
+name: LogicMonitor
+free_sso_providers:
+sources:
+  - https://www.logicmonitor.com/pricing
+  - https://www.logicmonitor.com/support/enabling-single-sign-on
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2025-05-08
+vendor_url: https://www.logicmonitor.com/
