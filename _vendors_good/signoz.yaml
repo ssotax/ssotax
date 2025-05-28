@@ -1,0 +1,9 @@
+free_sso_providers:
+  - Google
+name: SigNoz
+sources:
+  - https://signoz.io/pricing/
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2025-05-28
+vendor_url: https://signoz.io
