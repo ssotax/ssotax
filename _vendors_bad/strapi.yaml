@@ -1,0 +1,11 @@
+---
+base_pricing: 10
+currency: USD
+name: Strapi
+notes: SSO is an add-on to the Growth plan at $50 per user/month
+pricing_scheme: per user/month
+pricing_sources:
+  - https://strapi.io/pricing-self-hosted
+sso_pricing: 60
+updated_at: 2025-06-11
+vendor_url: https://strapi.io/
