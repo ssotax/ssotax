@@ -1,0 +1,12 @@
+---
+base_pricing: 17
+currency: USD
+name: memtime
+notes: Basic plan @$11/mo says for small teams but doesn't support any project software integrations.  Connect supports integrations teams would need ($17/mo) but you need Premium ($23/mo) or Enteprprise ("contact sales") to add SSO.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.memtime.com/pricing#price-table
+scim_pricing: 23
+sso_pricing: 23
+updated_at: 2025-06-02
+vendor_url: https://www.memtime.com/
