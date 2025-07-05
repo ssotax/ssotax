@@ -6,7 +6,7 @@ free_sso_providers:
   - Google
   - Microsoft
 name: Otter.ai
-notes: No SAML w/o Enterprise and at least 100 seats: $4200 for minimum 100 users
+notes: "No SAML w/o Enterprise and at least 100 seats: $4200 for minimum 100 users"
 pricing_scheme: per month
 pricing_sources:
   - https://otter.ai/pricing
