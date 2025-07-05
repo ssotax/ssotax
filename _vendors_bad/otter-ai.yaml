@@ -1,0 +1,17 @@
+---
+base_pricing: 16.99
+currency: USD
+free_sso_providers:
+  - Apple
+  - Google
+  - Microsoft
+name: Otter.ai
+notes: No SAML w/o Enterprise and at least 100 seats: $4200 for minimum 100 users
+pricing_scheme: per month
+pricing_sources:
+  - https://otter.ai/pricing
+  - ChatGPT cited deals
+scim_pricing: unknown
+sso_pricing: 29.17
+updated_at: 2025-06-20
+vendor_url: https://otter.ai
