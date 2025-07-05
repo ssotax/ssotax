@@ -1,0 +1,12 @@
+---
+base_pricing: 0.01
+currency: EUR
+name: TheHive (StrangeBee SAS)
+notes: On prem. No information about quantities less than 5 .. or more than 5 for that matter.
+pricing_scheme: per 5 user/year
+pricing_sources:
+  - https://strangebee.com/thehive-pricing-on-prem/
+scim_pricing: unknown
+sso_pricing: 26650
+updated_at: 2025-06-24
+vendor_url: https://strangebee.com/thehive/
