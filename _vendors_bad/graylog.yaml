@@ -1,0 +1,13 @@
+---
+base_pricing: 0.01
+currency: USD
+free_sso_providers:
+  - Google
+name: Graylog
+notes: You can add SSO starting at $15,000/yr.
+pricing_scheme: per year
+pricing_sources:
+  - https://graylog.org/pricing/
+sso_pricing: 15000
+updated_at: 2025-07-29
+vendor_url: https://graylog.org/
