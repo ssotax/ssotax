@@ -1,0 +1,14 @@
+---
+name: Mathesar
+free_sso_providers:
+  - Apple
+  - Github
+  - GitLab
+  - Google
+  - Microsoft
+sources:
+  - https://docs.mathesar.org/latest/administration/single-sign-on/
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2025-07-31
+vendor_url: https://mathesar.org
