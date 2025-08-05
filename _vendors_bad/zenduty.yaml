@@ -1,0 +1,12 @@
+---
+base_pricing: 6
+currency: USD
+name: Zenduty
+notes: SSO available on Growth ($10/user/month) and Enterprise ($25/user/month) plans. SCIM availability not specified in public documentation.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://zenduty.com/pricing/
+scim_pricing: 25
+sso_pricing: 10
+updated_at: 2025-07-16
+vendor_url: https://zenduty.com
