@@ -1,0 +1,15 @@
+---
+base_pricing: 750
+currency: USD
+free_sso_providers:
+  - LinkedIn
+name: Northspyre
+notes: SSO (and MFA!) only available on the Enterprise plan.
+pricing_scheme: per project/month
+pricing_sources:
+  - https://www.northspyre.com/pricing
+  - Quote
+scim_pricing: unknown
+sso_pricing: 975
+updated_at: 2025-09-05
+vendor_url: https://www.northspyre.com/
