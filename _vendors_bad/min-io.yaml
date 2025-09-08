@@ -1,0 +1,14 @@
+---
+base_pricing: 0.01
+currency: USD
+name: Minio
+notes: Usage of OIDC and LDP used to be free, however they have since then removed this from the OSS version of Minio, and locked it behind their AiStor product. Even when it was part of the free tier, Minio prevented core functionality as per issue 20333, locking it behind their enterprise offerings: minio/minio#20333
+pricing_scheme: unknown
+pricing_sources:
+  - https://www.min.io/pricing
+  - https://github.com/minio/minio/releases/tag/RELEASE.2025-05-24T17-08-30Z
+  - https://github.com/minio/minio/pull/20333
+scim_pricing: unknown
+sso_pricing: unknown
+updated_at: 2025-09-07
+vendor_url: https://min.io
