@@ -2,7 +2,7 @@
 base_pricing: 0.01
 currency: USD
 name: Minio
-notes: Usage of OIDC and LDP used to be free, however they have since then removed this from the OSS version of Minio, and locked it behind their AiStor product. Even when it was part of the free tier, Minio prevented core functionality as per issue 20333, locking it behind their enterprise offerings: minio/minio#20333
+notes: Usage of OIDC and LDP used to be free, however they have since then removed this from the OSS version of Minio, and locked it behind their AiStor product. Even when it was part of the free tier, Minio prevented core functionality as per issue 20333, locking it behind their enterprise offerings.
 pricing_scheme: unknown
 pricing_sources:
   - https://www.min.io/pricing
