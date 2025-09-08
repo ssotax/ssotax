@@ -1,0 +1,16 @@
+---
+base_pricing: 0.01
+currency: USD
+free_sso_providers:
+  - Google
+  - Github
+name: Airbyte
+notes: Base is free/OSS. SSO/SAML is Enterprise-only whether self-hosted or cloud.
+pricing_scheme: per year
+pricing_sources:
+  - https://airbyte.com/pricing
+  - Sales
+scim_pricing: 40000
+sso_pricing: 40000
+updated_at: 2025-08-27
+vendor_url: https://airbyte.com
