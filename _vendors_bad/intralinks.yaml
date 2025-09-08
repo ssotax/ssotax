@@ -1,0 +1,12 @@
+---
+base_pricing: 250000
+currency: USD
+name: Intralinks
+notes: You can only add SSO bundled with their security and audit offering. No per user pricing, no documented pricing. They ask an open-ended price of $250k with no set pricing.
+pricing_scheme: per year
+pricing_sources:
+  - Quote
+scim_pricing: 0
+sso_pricing: 0
+updated_at: 2025-08-01
+vendor_url: https://intralinks.com
