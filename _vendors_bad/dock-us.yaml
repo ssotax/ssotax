@@ -1,0 +1,16 @@
+---
+base_pricing: 350
+currency: USD
+free_sso_providers:
+  - Microsoft
+  - Google
+name: Dock
+notes: Plan comes with 3 users, next level is 10 users for $750/mo
+pricing_scheme: per month
+pricing_sources:
+  - https://www.dock.us/pricing
+  - Quote
+scim_pricing: 1041
+sso_pricing: 1041
+updated_at: 2025-08-05
+vendor_url: https://www.dock.us
