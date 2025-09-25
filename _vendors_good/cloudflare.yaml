@@ -1,0 +1,15 @@
+---
+name: Cloudflare
+free_sso_providers:
+  - Apple
+  - Google
+  - GitHub
+pricing_scheme: per month
+pricing_sources:
+  - https://www.cloudflare.com/plans
+  - https://developers.cloudflare.com/cloudflare-one/applications/configure-apps/dash-sso-apps/
+  - https://blog.cloudflare.com/enterprise-grade-features-for-all/
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2025-09-25
+vendor_url: https://www.cloudflare.com
