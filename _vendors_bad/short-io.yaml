@@ -1,0 +1,16 @@
+---
+base_pricing: 48
+currency: USD
+free_sso_providers:
+  - Google
+  - Facebook
+  - Apple
+name: Short.io
+notes: SSO is available on the Enterprise Plan.
+pricing_scheme: per month
+pricing_sources:
+  - https://short.io/us/pricing/?currency=USD
+scim_pricing: 148
+sso_pricing: 148
+updated_at: 2025-09-02
+vendor_url: https://short.io/
