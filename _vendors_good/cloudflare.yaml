@@ -4,8 +4,8 @@ free_sso_providers:
   - Apple
   - Google
   - GitHub
-pricing_scheme: per month
-pricing_sources:
+scim_starting_on_plan: highest
+sources:
   - https://www.cloudflare.com/plans
   - https://developers.cloudflare.com/cloudflare-one/applications/configure-apps/dash-sso-apps/
   - https://blog.cloudflare.com/enterprise-grade-features-for-all/
