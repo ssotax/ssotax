@@ -1,0 +1,17 @@
+---
+base_pricing: 3980
+currency: JPY
+free_sso_providers:
+  - Google
+  - Apple
+  - Microsoft
+  - AirID
+name: freee会計
+notes: You can add SSO only to an enterprise plan for 150 yen per u/m.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.freee.co.jp/accounting/small-medium/pricing/
+  - Quote
+sso_pricing: 4130
+updated_at: 2025-09-27
+vendor_url: https://www.freee.co.jp/accounting/
