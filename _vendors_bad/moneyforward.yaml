@@ -1,0 +1,14 @@
+---
+base_pricing: 5980
+currency: JPY
+free_sso_providers:
+name: MoneyForward Cloud
+notes: You can add SSO to a plan for 300 yen per u/m.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://biz.moneyforward.com/support/plan/news/20250601.html
+  - Quote
+scim_pricing: not supported
+sso_pricing: 6280
+updated_at: 2025-09-27
+vendor_url: https://biz.moneyforward.com/
