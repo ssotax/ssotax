@@ -1,0 +1,15 @@
+---
+base_pricing: 50
+currency: USD
+free_sso_providers:
+  - Google
+  - Github
+name: LiveKit.io
+notes: You can add SSO to a plan for $5 per u/m.
+pricing_scheme: per month
+pricing_sources:
+  - https://livekit.io/pricing
+scim_pricing: 500
+sso_pricing: 500
+updated_at: 2025-10-02
+vendor_url: https://cloud.livekit.io
