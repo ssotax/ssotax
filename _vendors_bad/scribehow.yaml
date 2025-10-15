@@ -1,0 +1,15 @@
+---
+base_pricing: 12
+currency: USD
+free_sso_providers:
+  - Google
+name: ScribeHow
+notes: Pro Team pricing starts at 5 seats. Enterprise Base is 349/m + 39/u/m (can have unlicensed admin users) SSO only on Enterprise tiers
+pricing_scheme: per user/month
+pricing_sources:
+  - https://scribehow.com/pricing
+  - Quote
+scim_pricing: 388
+sso_pricing: 388
+updated_at: 2025-10-13
+vendor_url: https://scribehow.com
