@@ -1,0 +1,13 @@
+---
+name: Checkpoint Harmony
+free_sso_providers:
+  - Google
+  - Microsoft
+scim_pricing: 0
+scim_starting_on_plan: lowest
+sources:
+  - Quote, Sales rep informed me SSO/SCIM in included on all checkpoint harmony products regardless of licensing
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2025-09-11
+vendor_url: https://www.checkpoint.com/harmony/
