@@ -1,0 +1,11 @@
+---
+base_pricing: 17.99
+currency: USD
+name: DMARCLY
+notes: SSO only available at enterprise tier
+pricing_scheme: per month
+pricing_sources:
+  - https://dmarcly.com/pricing
+sso_pricing: 199
+updated_at: 2025-09-12
+vendor_url: https://dmarcly.com/
