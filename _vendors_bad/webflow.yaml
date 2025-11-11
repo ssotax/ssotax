@@ -1,10 +1,12 @@
 ---
-base_pricing: 12
+base_pricing: 19
 currency: USD
 name: Webflow
-pricing_scheme: per user/month
+notes: Pricing for Workspace plans, SSO is only included in the enterprise plan.
+pricing_scheme: per month
 pricing_sources:
   - https://webflow.com/pricing
-sso_pricing: unknown
-updated_at: 2022-07-07
+  - Quote
+sso_pricing: 2500
+updated_at: 2025-11-11
 vendor_url: https://webflow.com
