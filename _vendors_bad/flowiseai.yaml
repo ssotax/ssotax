@@ -1,0 +1,13 @@
+---
+base_pricing: 35
+currency: USD
+free_sso_providers:
+  - Google
+  - Github
+name: FlowiseAI
+notes: SSO is only available for Enterprise plan
+pricing_scheme: per user/month
+pricing_sources:
+  - https://flowiseai.com/#pricing
+updated_at: 2025-11-15
+vendor_url: https://flowiseai.com/
