@@ -1,0 +1,11 @@
+---
+base_pricing: 34.9
+currency: USD
+name: ISL Online
+notes: The number of purchased licenses determines the maximum number of concurrent users. A concurrent user is anyone who runs one or multiple sessions at the same time from any device.
+pricing_scheme: per month
+pricing_sources:
+  - https://www.islonline.com/gb/en/pricing/
+sso_pricing: 54.90
+updated_at: 2025-11-06
+vendor_url: https://www.islonline.com/
