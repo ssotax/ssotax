@@ -1,0 +1,16 @@
+---
+name: Synthesia
+vendor_url: https://www.synthesia.io
+pricing_sources:
+  - https://www.synthesia.io/pricing
+base_pricing: 26
+currency: EUR
+free_sso_providers: []
+pricing_scheme: per user/month
+scim_pricing: unknown
+sso_pricing: unknown
+sso_on_free_plans: false
+sso_on_all_paid_plans: false
+notes: "SSO is only available on the Enterprise plan and pricing is not publicly listed; contact sales for details."
+updated_at: 2025-12-03
+---
