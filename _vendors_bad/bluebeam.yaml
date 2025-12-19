@@ -2,12 +2,12 @@
 base_pricing: 240
 currency: USD
 name: Bluebeam
-notes: Requires a min of 100 seats for SSO.
+notes: Requires a min of 10 seats for SSO.
 pricing_scheme: per user/year
 pricing_sources:
   - https://www.bluebeam.com/pricing/
   - https://support.bluebeam.com/articles/sso-process-overview/
 scim_pricing: unknown
-sso_pricing: 2400
-updated_at: 2024-05-30
+sso_pricing: 240
+updated_at: 2025-12-18
 vendor_url: https://bluebeam.com
