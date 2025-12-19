@@ -1,0 +1,12 @@
+---
+base_pricing: 770
+currency: USD
+name: erm4sn
+notes: What's called 'BYOD' SSO pricing starts on Enterprise level. Price is not specified w/o request for a quote. Preceding plan - Professional - costs 1760 USD, thus assuming general SSO pricing is above that. Basic plan allowing for 10 accounts starts at 770 USD per month.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.erm4sn.com/pricing/
+  - https://www.erm4sn.com/questions-answers/
+sso_pricing: 1760
+updated_at: 2025-12-10
+vendor_url: https://www.erm4sn.com/
