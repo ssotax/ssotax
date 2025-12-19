@@ -1,0 +1,13 @@
+---
+name: PaperCut
+free_sso_providers:
+  - Google
+  - Microsoft
+scim_pricing: unknown
+scim_starting_on_plan: unknown
+sources:
+  - https://www.papercut.com/help/manuals/ng-mf/common/sso/
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2025-11-21
+vendor_url: https://papercut.com
