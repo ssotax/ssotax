@@ -1,0 +1,10 @@
+---
+base_pricing: 35
+currency: USD
+name: Mailgun
+pricing_scheme: per month
+pricing_sources:
+  - https://www.mailgun.com/pricing
+sso_pricing: 90
+updated_at: 2025-12-03
+vendor_url: https://www.mailgun.com
