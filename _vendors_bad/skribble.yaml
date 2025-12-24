@@ -1,0 +1,11 @@
+---
+base_pricing: 36
+currency: CHF
+name: Skribble
+notes: 2000 CHF base charge to implement SSO on top of the hefty monthly fee
+pricing_scheme: per month
+pricing_sources:
+  - Quote
+sso_pricing: 2490
+updated_at: 2025-12-24
+vendor_url: https://www.skribble.com
