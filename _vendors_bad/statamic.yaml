@@ -1,0 +1,11 @@
+base_pricing: 275
+currency: USD
+free_sso_providers: []
+name: Statamic
+notes: SSO contained in Enterprise offering, not in Core (free)/Pro (paid)
+pricing_scheme: per site
+pricing_sources:
+  - https://statamic.com/pricing
+sso_pricing: unknown
+updated_at: 2025-12-26
+vendor_url: "https://statamic.com"
