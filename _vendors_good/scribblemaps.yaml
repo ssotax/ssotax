@@ -1,0 +1,13 @@
+---
+name: Scribble Maps
+free_sso_providers:
+  - Google
+  - Microsoft
+scim_pricing: 0
+scim_starting_on_plan: lowest
+sources:
+  - https://www.scribblemaps.com/pricing
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2026-01-05
+vendor_url: https://www.scribblemaps.com
