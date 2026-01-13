@@ -1,0 +1,14 @@
+---
+base_pricing: 9
+currency: USD
+free_sso_providers:
+  - Google
+  - Github
+name: Stirling-PDF
+pricing_scheme: per server/month
+pricing_sources:
+  - https://www.stirling.com/pricing
+  - https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v2.0.0
+sso_pricing: 99
+updated_at: 2025-12-05
+vendor_url: https://www.stirling.com
