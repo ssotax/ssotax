@@ -1,0 +1,13 @@
+---
+base_pricing: 41
+currency: USD
+free_sso_providers:
+  - Google
+name: Proposify
+notes: cheapest pricing provided is billed annually
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.proposify.com/pricing
+sso_pricing: 65
+updated_at: 2025-12-23
+vendor_url: https://www.proposify.com/
