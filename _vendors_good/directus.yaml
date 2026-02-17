@@ -1,0 +1,8 @@
+---
+name: Directus (Self-Hosted)
+sources:
+  - https://directus.io/docs/configuration/auth-sso
+sso_on_free_plans: true
+sso_on_all_paid_plans: false
+updated_at: 2025-12-05
+vendor_url: https://directus.io/
