@@ -1,0 +1,9 @@
+---
+name: SFTPGo
+sources:
+  - https://sftpgo.com/on-premises
+  - https://docs.sftpgo.com/2.7/oidc/
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2026-01-28
+vendor_url: https://sftpgo.com/
