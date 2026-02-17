@@ -1,0 +1,13 @@
+---
+name: Outline
+free_sso_providers:
+  - Google
+  - Microsoft
+  - Slack
+sources:
+  - https://www.getoutline.com/pricing?plan=on-premise
+  - https://docs.getoutline.com/s/hosting/doc/authentication-7ViKRmRY5o
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2026-01-28
+vendor_url: https://www.getoutline.com
