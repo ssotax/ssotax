@@ -1,0 +1,12 @@
+---
+base_pricing: 19
+currency: USD
+name: TabbyML
+notes: Meeting with sales for custom pricing on Enterprise which includes SSO 
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.tabbyml.com/pricing
+  - Quote
+sso_pricing: unknown
+updated_at: 2026-02-08
+vendor_url: https://www.tabbyml.com/
