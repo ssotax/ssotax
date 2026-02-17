@@ -1,0 +1,12 @@
+---
+name: Jellyfish
+free_sso_providers:
+  - Google
+scim_pricing: 0
+scim_starting_on_plan: lowest
+sources:
+  - IT
+sso_on_free_plans: false
+sso_on_all_paid_plans: true
+updated_at: 2026-01-31
+vendor_url: https://jellyfish.co
