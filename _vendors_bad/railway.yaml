@@ -1,0 +1,16 @@
+---
+base_pricing: 20
+currency: USD
+free_sso_providers:
+  - Github
+  - Google
+name: Railway
+notes: Price for SSO is only shown if you are signed up to the Pro plan
+pricing_scheme: minimum usage
+pricing_sources:
+  - https://railway.com/pricing
+  - shown if you are signed up to the Pro plan
+scim_pricing: N/A
+sso_pricing: 2000
+updated_at: 2026-02-18
+vendor_url: https://railway.com
