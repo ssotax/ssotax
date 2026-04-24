@@ -1,0 +1,14 @@
+---
+base_pricing: unknown
+currency: USD
+free_sso_providers:
+  - Microsoft
+name: Bonterra Apricot
+notes: 2FA Pro Plan, SSO Enterprise plan
+pricing_scheme: per user
+pricing_sources:
+  - https://www.bonterratech.com/pricing/case-management
+  - Quote
+sso_pricing: unknown
+updated_at: 2026-04-07
+vendor_url: https://www.bonterratech.com
