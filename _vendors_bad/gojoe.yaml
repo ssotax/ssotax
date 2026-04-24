@@ -1,0 +1,15 @@
+---
+base_pricing: 6.34
+currency: USD
+free_sso_providers:
+  - Apple
+  - Google
+  - Facebook
+name: GoJoe
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.gojoe.com/pricing
+scim_pricing: 7.49
+sso_pricing: 7.49
+updated_at: 2026-03-31
+vendor_url: https://www.gojoe.com/
