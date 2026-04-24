@@ -1,0 +1,16 @@
+---
+base_pricing: 12
+currency: USD
+free_sso_providers:
+  - GitHub
+  - GitLab
+  - Google
+name: Dokploy
+notes: You only get SSO through enterprice plan. Pricing schema is not disclosed for enterprise.
+pricing_scheme: per user/month
+pricing_sources:
+  - https://dokploy.com/#pricing
+  - Quote
+sso_pricing: unknown
+updated_at: 2026-03-02
+vendor_url: https://dokploy.com
