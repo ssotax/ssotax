@@ -1,0 +1,10 @@
+---
+base_pricing: 10
+currency: USD
+name: Rippling
+notes: You can add SSO to a plan for $1.1 per u/m.
+pricing_scheme: per user/month
+scim_pricing: 11.1
+sso_pricing: 11.1
+updated_at: 2026-04-14
+vendor_url: https://rippling.com
