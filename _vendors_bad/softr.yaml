@@ -1,0 +1,12 @@
+---
+base_pricing: 49
+currency: USD
+name: Softr
+notes: SSO locked to Enterprise tier with Call Us pricing. Quoted $500+/month
+pricing_scheme: per month
+pricing_sources:
+  - https://www.softr.io/pricing
+  - Quote
+sso_pricing: 500
+updated_at: 2026-03-10
+vendor_url: https://www.softr.io/
