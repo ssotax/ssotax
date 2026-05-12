@@ -1,5 +1,5 @@
 ---
-base_pricing: 7.25
+base_pricing: 8.75
 currency: USD
 free_sso_providers:
   - Google
@@ -10,6 +10,6 @@ pricing_sources:
   - https://slack.com/pricing
   - https://slack.com/help/articles/204078066-Google-Workspace-single-sign-on
   - https://slack.com/help/articles/205168057-Custom-SAML-single-sign-on
-sso_pricing: 12.50
-updated_at: 2024-04-20
+sso_pricing: 18
+updated_at: 2026-05-12
 vendor_url: https://slack.com
