@@ -1,0 +1,15 @@
+---
+base_pricing: 29
+currency: USD
+free_sso_providers:
+  - Apple
+  - Google
+  - Facebook
+name: Shopify
+pricing_scheme: per user/month
+pricing_sources:
+  - https://www.shopify.com/pricing
+scim_pricing: 2300
+sso_pricing: 2300
+updated_at: 2026-08-07
+vendor_url: https://www.shopify.com
