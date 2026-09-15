@@ -1,0 +1,15 @@
+---
+base_pricing: 199
+currency: USD
+free_sso_providers:
+  - Google
+  - Microsoft
+name: Coderbyte.com
+notes: SSO/SCIM are bundled
+pricing_scheme: per month
+pricing_sources:
+  - https://coderbyte.com/#pricing
+scim_pricing: 398
+sso_pricing: 398
+updated_at: 2026-05-08
+vendor_url: https://coberbyte.com
