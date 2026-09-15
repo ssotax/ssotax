@@ -1,0 +1,9 @@
+---
+name: LiteLLM
+notes: SSO requires "LiteLLM Enterprise", which does not have published pricing.
+pricing_scheme: per user/month
+pricing_sources:
+  - Quote
+sso_pricing: unknown
+updated_at: 2026-08-25
+vendor_url: https://docs.litellm.ai/docs/enterprise
