@@ -1,0 +1,10 @@
+---
+base_pricing: 19
+currency: USD
+name: Pulsetic
+pricing_scheme: per user/month
+pricing_sources:
+  - https://pulsetic.com/pricing/
+sso_pricing: 49
+updated_at: 2026-06-23
+vendor_url: https://pulsetic.com/
