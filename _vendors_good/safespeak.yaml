@@ -1,0 +1,11 @@
+---
+name: SafeSpeak
+free_sso_providers:
+  - Google
+  - Microsoft
+sources:
+  - https://safespeak.eu
+sso_on_free_plans: true
+sso_on_all_paid_plans: true
+updated_at: 2026-07-22
+vendor_url: https://safespeak.eu
