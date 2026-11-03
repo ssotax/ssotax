@@ -1,0 +1,12 @@
+---
+base_pricing: 13.99
+currency: USD
+name: Certn
+notes: Certn is pay-as-you-go with no per-user subscription; base price is the cheapest US check (US Core Criminal Check). SSO is not gated behind a plan tier — it is a one-time $2,500 USD implementation fee (vendor-confirmed), so the percentage compares a one-time fee against the price of a single check.
+pricing_scheme: per check for base pricing; SSO is a "one-time implementation fee"
+pricing_sources:
+  - Quote
+  - https://certn.co/us/pricing/
+sso_pricing: 2500
+updated_at: 2026-11-03
+vendor_url: https://certn.co
